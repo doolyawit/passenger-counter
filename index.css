@@ -45,3 +45,18 @@ button {
   border-radius: 20px;
   max-width: 500px;
 }
+.custom-shape-divider-top-1681198142 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1681198142 svg {
+  position: relative;
+  display: block;
+  width: calc(144% + 1.3px);
+  height: 265px;
+}
